@@ -44,7 +44,7 @@ sections:
       username: admin
   - block: experience
     content:
-      title: Experience
+      # title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -97,7 +97,7 @@ sections:
       text: |-
         Please feel free to contact me if you have any questions.
       # Contact (add or remove contact options as necessary)
-      email: davidzhou718@gmail.com
+      email: mingyulu15@gmail.com
       # appointment_url: 'https://calendly.com'
       # address:
       #   street: 450 Serra Mall
