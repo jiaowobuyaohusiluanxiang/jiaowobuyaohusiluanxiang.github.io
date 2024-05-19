@@ -61,7 +61,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/20240519 简历第四版.pdf
+    link: uploads/20240519 简历第五版.pdf
 
  
 
